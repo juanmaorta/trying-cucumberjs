@@ -1,0 +1,14 @@
+{
+  "name": "cucumber",
+  "version": "0.0.0",
+  "description": "Playing with cucumber js",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/cucumber/bin/cucumber.js"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "cucumber": "latest"
+  }
+}
